@@ -1,0 +1,1 @@
+The final state file is HW4.pvsm. There are clear indication by names of what each filter is for. For eg. Isovolume_QCLOUD refers to the iso-volume rendering of QCLOUD. All the images in report are contained in Images folder. Please find the TEX resources for the report in the LaTeX folder. 
